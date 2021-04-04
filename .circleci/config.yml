@@ -1,7 +1,22 @@
 version: 2.1
 orbs:
   node: circleci/node@3.0.0
+jobs:
+  release:
+    docker:
+      - image: circleci/node:8
+    steps:
+      - checkout
+      - run: npm install
+      # Run optional required steps before releasing
+      # - run: npm run build-script
+      - run: npx semantic-release
 workflows:
-  node-tests:
+  version: 2
+  test_and_release:
+    # Run the test jobs first, then the release only when all the test jobs are successful
     jobs:
       - node/test
+      - release:
+          requires:
+            - node/test

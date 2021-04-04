@@ -7,7 +7,12 @@
     "start": "node index.js",
     "test": "jest"
   },
-  "keywords": ["f1-game", "udp stream", "telemetry", "F12020"],
+  "keywords": [
+    "f1-game",
+    "udp stream",
+    "telemetry",
+    "F12020"
+  ],
   "author": "Chase Coney",
   "license": "ISC",
   "dependencies": {
@@ -17,6 +22,7 @@
   },
   "devDependencies": {
     "jest": "^26.6.3",
-    "prettier": "2.2.1"
+    "prettier": "2.2.1",
+    "semantic-release": "^17.4.2"
   }
 }
