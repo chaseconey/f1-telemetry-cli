@@ -1,0 +1,22 @@
+{
+  "name": "f1-telemetry-cli",
+  "version": "1.0.0",
+  "description": "Recorder and processor for F1 games.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "keywords": ["f1-game", "udp stream", "telemetry", "F12020"],
+  "author": "Chase Coney",
+  "license": "ISC",
+  "dependencies": {
+    "f1-telemetry-client": "^0.1.21",
+    "lodash": "^4.17.21",
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "prettier": "2.2.1"
+  }
+}
