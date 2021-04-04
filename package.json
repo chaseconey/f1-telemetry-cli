@@ -15,6 +15,9 @@
   ],
   "author": "Chase Coney",
   "license": "ISC",
+  "bin": {
+    "f1-telemetry": "./index.js"
+  },
   "dependencies": {
     "f1-telemetry-client": "^0.1.21",
     "lodash": "^4.17.21",
