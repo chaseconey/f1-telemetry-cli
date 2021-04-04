@@ -1,4 +1,3 @@
-
 # f1-telemetry-cli [![CircleCI](https://circleci.com/gh/chaseconey/f1-telemetry-cli.svg?style=svg)](https://circleci.com/gh/chaseconey/f1-telemetry-cli)
 
 A simple CLI for tracking and processing F1 game UDP data (currently supports F1 2020).
@@ -21,11 +20,24 @@ For a full example of a completed race, check out [the stub here](stubs/final-ra
 
 ## Installation
 
-TODO
+```
+npm install -g f1-telemetry-cli
+```
 
 ## Usage
 
-TODO
+```
+f1-telemetry help
+f1-telemetry [command]
+
+Commands:
+  f1-telemetry record          Start recording F1 2020 sessions
+  f1-telemetry process <file>  Process session data for specific session
+
+Options:
+  --version  Show version number                                       [boolean]
+  --help     Show help                                                 [boolean]
+```
 
 ## Contributing
 
