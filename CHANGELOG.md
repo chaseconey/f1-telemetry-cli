@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/chaseconey/f1-telemetry-cli/compare/v1.0.0...v1.0.1) (2021-04-04)
+
+
+### Bug Fixes
+
+* make entry executable ([10b2927](https://github.com/chaseconey/f1-telemetry-cli/commit/10b2927cd302562775c949a3d6df89c6cb8aa919))
+
 # 1.0.0 (2021-04-04)
 
 
