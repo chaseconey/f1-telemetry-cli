@@ -1,5 +1,5 @@
 
-# f1-telemetry-cli
+# f1-telemetry-cli [![CircleCI](https://circleci.com/gh/chaseconey/f1-telemetry-cli.svg?style=svg)](https://circleci.com/gh/chaseconey/f1-telemetry-cli)
 
 A simple CLI for tracking and processing F1 game UDP data (currently supports F1 2020).
 
