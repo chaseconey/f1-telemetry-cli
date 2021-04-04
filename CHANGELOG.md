@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/chaseconey/f1-telemetry-cli/compare/v1.0.1...v1.0.2) (2021-04-04)
+
+
+### Bug Fixes
+
+* add bin to package.json ([4d73120](https://github.com/chaseconey/f1-telemetry-cli/commit/4d7312084ef1cbcf9f31ccc30f234f3b8c2c8ac4))
+
 ## [1.0.1](https://github.com/chaseconey/f1-telemetry-cli/compare/v1.0.0...v1.0.1) (2021-04-04)
 
 
