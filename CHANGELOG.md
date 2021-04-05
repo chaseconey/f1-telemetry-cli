@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/chaseconey/f1-telemetry-cli/compare/v1.0.2...v1.1.0) (2021-04-05)
+
+
+### Features
+
+* add session command ([ad9e8a8](https://github.com/chaseconey/f1-telemetry-cli/commit/ad9e8a82b3ef011ff3721f27fe8c947fd51e02c6))
+
 ## [1.0.2](https://github.com/chaseconey/f1-telemetry-cli/compare/v1.0.1...v1.0.2) (2021-04-04)
 
 
