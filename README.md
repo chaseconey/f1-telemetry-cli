@@ -33,11 +33,49 @@ f1-telemetry [command]
 Commands:
   f1-telemetry record          Start recording F1 2020 sessions
   f1-telemetry process <file>  Process session data for specific session
+  f1-telemetry session         Get live session data
 
 Options:
   --version  Show version number                                       [boolean]
   --help     Show help                                                 [boolean]
 ```
+
+### Recorder
+
+TODO
+
+### Processor
+
+TODO
+
+### Session
+
+![](/img/session.png)
+
+```
+f1-telemetry session
+
+Get live session data
+
+Options:
+      --version       Show version number                              [boolean]
+      --help          Show help                                        [boolean]
+      --port          UDP port to listen on                     [default: 20777]
+      --events-shown  Number of events to show in events table      [default: 5]
+  -m, --map-file      Path to csv driver map (racing number, driver name)
+                                                                 [default: null]
+```
+
+This command can be used to stream session information to your console. This is a great tool for getting at-a-glance information as a broadcaster or spectator.
+
+To correlate real-time events to drivers, you can pass a path to a csv with driver racing numbers to names like so:
+
+```
+2,Rawrocopter
+21,Redbaron
+```
+
+Now everytime an event comes in for racing number `2`, `Rawrocopter` will be shown instead.
 
 ## Contributing
 
