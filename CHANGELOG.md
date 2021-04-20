@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/chaseconey/f1-telemetry-cli/compare/v1.1.0...v1.2.0) (2021-04-20)
+
+
+### Features
+
+* add udp forwarding support ([9e22ba9](https://github.com/chaseconey/f1-telemetry-cli/commit/9e22ba9016a0a9dc2778a30510fbd14c4913d044))
+
 # [1.1.0](https://github.com/chaseconey/f1-telemetry-cli/compare/v1.0.2...v1.1.0) (2021-04-05)
 
 
