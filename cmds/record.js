@@ -48,7 +48,7 @@ exports.builder = {
     alias: "p",
     desc: "Path to write file to",
   },
-  writeFrequency: {
+  "write-frequency": {
     default: 2500,
     desc: "Time in ms to wait between flushes to file",
   },
@@ -60,6 +60,10 @@ exports.builder = {
     default: 20777,
     desc: "UDP port to listen on",
   },
+  "forward-address": {
+    alias: "f",
+    desc: "IP Address to forward UDP packet stream to",
+  },
 };
 
 exports.handler = function (argv) {
@@ -68,9 +72,17 @@ exports.handler = function (argv) {
   prefix = argv.prefix;
   path = argv.path;
 
+  let config = {
+    port,
+  };
+
+  if (argv.forwardAddress) {
+    config.forwardAddresses = [{ port, ip: argv.forwardAddress }];
+  }
+
   let carStatus = {};
 
-  const client = new F1TelemetryClient({ port });
+  const client = new F1TelemetryClient(config);
   // client.on(PACKETS.event, trackEvents);
   // client.on(PACKETS.motion, console.log);
   // client.on(PACKETS.carSetups, console.log);

@@ -26,6 +26,10 @@ exports.builder = {
     alias: "m",
     desc: "Path to csv driver map (racing number, driver name)",
   },
+  "forward-address": {
+    alias: "f",
+    desc: "IP Address to forward UDP packet stream to",
+  },
 };
 
 exports.handler = function (argv) {
@@ -38,12 +42,19 @@ exports.handler = function (argv) {
     drivers: {},
     events: [],
   };
+  let config = {
+    port,
+  };
 
   if (driverMapFile) {
     driverMap = loadDriverMap(driverMapFile);
   }
 
-  const client = new F1TelemetryClient({ port });
+  if (argv.forwardAddress) {
+    config.forwardAddresses = [{ port, ip: argv.forwardAddress }];
+  }
+
+  const client = new F1TelemetryClient(config);
   client.on(PACKETS.event, (e) => {
     let parsed = {
       code: e.m_eventStringCode,
