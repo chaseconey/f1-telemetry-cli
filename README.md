@@ -42,11 +42,48 @@ Options:
 
 ### Recorder
 
-TODO
+```
+f1-telemetry record
+
+Start recording F1 2020 sessions
+
+Options:
+      --version          Show version number                           [boolean]
+      --help             Show help                                     [boolean]
+  -p, --path             Path to write file to                    [default: "."]
+      --write-frequency  Time in ms to wait between flushes to file
+                                                                 [default: 2500]
+      --prefix           Name to prefix written file with          [default: ""]
+      --port             UDP port to listen on                  [default: 20777]
+  -f, --forward-address  IP Address to forward UDP packet stream to
+```
+
+This command will record the active UDP data stream from the game and save the important bits and bobs in a very lightweight json file. This can be extremely useful for collecting data for things like league races.
 
 ### Processor
 
-TODO
+```
+f1-telemetry process <file>
+
+Process session data for specific session
+
+Options:
+      --version  Show version number                                   [boolean]
+      --help     Show help                                             [boolean]
+  -p, --path     Path to write file to                            [default: "."]
+  -n, --name     Name of the processed file               [default: "processed"]
+```
+
+This command will further process the raw json data and put it into a slightly more usable format.
+
+This command also augments the original data with some calculated data that could be useful such as:
+
+- **Driver Fastest Lap Delta** - the difference between each driver's fastest lap and the race's fastest lap
+- **Driver Fastest Lap Sector Deltas** - the difference between each driver's fastest sector and the session's fastest lap's fastest sector (not the overall fastest sector)
+
+It will then organize this data sorted by the finishing race position and keyed by the driver's racing number.
+
+For a full example of a completed race, check out [the stub here](stubs/final-race.json).
 
 ### Session
 
@@ -77,6 +114,3 @@ To correlate real-time events to drivers, you can pass a path to a csv with driv
 
 Now everytime an event comes in for racing number `2`, `Rawrocopter` will be shown instead.
 
-## Contributing
-
-TODO
