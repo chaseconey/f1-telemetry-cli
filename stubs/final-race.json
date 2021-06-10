@@ -1,1 +1,495 @@
-{"sessionId":"4237093393526711874","data":{"0":{"driver":{"m_aiControlled":1,"m_driverId":133,"m_teamId":6,"m_raceNumber":46,"m_nationality":31,"m_name":"Player","m_yourTelemetry":0},"lap_data":{"m_lastLapTime":100.10395050048828,"m_currentLapTime":0.010710700415074825,"m_sector1TimeInMS":0,"m_sector2TimeInMS":0,"m_bestLapTime":100.10395050048828,"m_bestLapNum":1,"m_bestLapSector1TimeInMS":29195,"m_bestLapSector2TimeInMS":40334,"m_bestLapSector3TimeInMS":30574,"m_bestOverallSector1TimeInMS":29195,"m_bestOverallSector1LapNum":1,"m_bestOverallSector2TimeInMS":40334,"m_bestOverallSector2LapNum":1,"m_bestOverallSector3TimeInMS":30574,"m_bestOverallSector3LapNum":1,"m_lapDistance":620.4228515625,"m_totalDistance":6516.73388671875,"m_safetyCarDelta":0,"m_carPosition":11,"m_currentLapNum":2,"m_pitStatus":0,"m_sector":0,"m_currentLapInvalid":0,"m_penalties":0,"m_gridPosition":9,"m_driverStatus":1,"m_resultStatus":3},"custom":{"bestLapTyre":16},"race_data":{"m_position":11,"m_numLaps":1,"m_gridPosition":9,"m_points":0,"m_numPitStops":0,"m_resultStatus":3,"m_bestLapTime":100.10395050048828,"m_totalRaceTime":100.10395050048828,"m_penaltiesTime":0,"m_numPenalties":0,"m_numTyreStints":1,"m_tyreStintsActual":[18,0,0,0,0,0,0,0],"m_tyreStintsVisual":[16,0,0,0,0,0,0,0]}},"1":{"driver":{"m_aiControlled":0,"m_driverId":139,"m_teamId":2,"m_raceNumber":9,"m_nationality":82,"m_name":"Player","m_yourTelemetry":0},"lap_data":{"m_lastLapTime":0,"m_currentLapTime":107.5243148803711,"m_sector1TimeInMS":28745,"m_sector2TimeInMS":50955,"m_bestLapTime":0,"m_bestLapNum":0,"m_bestLapSector1TimeInMS":0,"m_bestLapSector2TimeInMS":0,"m_bestLapSector3TimeInMS":0,"m_bestOverallSector1TimeInMS":28745,"m_bestOverallSector1LapNum":1,"m_bestOverallSector2TimeInMS":50955,"m_bestOverallSector2LapNum":1,"m_bestOverallSector3TimeInMS":0,"m_bestOverallSector3LapNum":0,"m_lapDistance":2.6689453125,"m_totalDistance":5898.97998046875,"m_safetyCarDelta":0,"m_carPosition":13,"m_currentLapNum":1,"m_pitStatus":0,"m_sector":0,"m_currentLapInvalid":0,"m_penalties":0,"m_gridPosition":4,"m_driverStatus":1,"m_resultStatus":2},"race_data":{"m_position":13,"m_numLaps":1,"m_gridPosition":4,"m_points":2,"m_numPitStops":0,"m_resultStatus":3,"m_bestLapTime":107.51959228515625,"m_totalRaceTime":107.51959228515625,"m_penaltiesTime":0,"m_numPenalties":0,"m_numTyreStints":1,"m_tyreStintsActual":[18,0,0,0,0,0,0,0],"m_tyreStintsVisual":[16,0,0,0,0,0,0,0]}},"2":{"driver":{"m_aiControlled":0,"m_driverId":138,"m_teamId":0,"m_raceNumber":14,"m_nationality":29,"m_name":"Player","m_yourTelemetry":0},"lap_data":{"m_lastLapTime":91.42953491210938,"m_currentLapTime":0.012424499727785587,"m_sector1TimeInMS":0,"m_sector2TimeInMS":0,"m_bestLapTime":91.42953491210938,"m_bestLapNum":1,"m_bestLapSector1TimeInMS":28544,"m_bestLapSector2TimeInMS":38035,"m_bestLapSector3TimeInMS":24849,"m_bestOverallSector1TimeInMS":28544,"m_bestOverallSector1LapNum":1,"m_bestOverallSector2TimeInMS":38035,"m_bestOverallSector2LapNum":1,"m_bestOverallSector3TimeInMS":24849,"m_bestOverallSector3LapNum":1,"m_lapDistance":1082.8525390625,"m_totalDistance":6979.16357421875,"m_safetyCarDelta":0,"m_carPosition":9,"m_currentLapNum":2,"m_pitStatus":0,"m_sector":0,"m_currentLapInvalid":0,"m_penalties":0,"m_gridPosition":1,"m_driverStatus":1,"m_resultStatus":3},"custom":{"bestLapTyre":16},"race_data":{"m_position":9,"m_numLaps":1,"m_gridPosition":1,"m_points":10,"m_numPitStops":0,"m_resultStatus":3,"m_bestLapTime":91.42953491210938,"m_totalRaceTime":91.42953491210938,"m_penaltiesTime":0,"m_numPenalties":0,"m_numTyreStints":1,"m_tyreStintsActual":[18,0,0,0,0,0,0,0],"m_tyreStintsVisual":[16,0,0,0,0,0,0,0]}},"3":{"driver":{"m_aiControlled":0,"m_driverId":140,"m_teamId":9,"m_raceNumber":38,"m_nationality":1,"m_name":"Player","m_yourTelemetry":0},"lap_data":{"m_lastLapTime":87.58965301513672,"m_currentLapTime":0.011448199860751629,"m_sector1TimeInMS":0,"m_sector2TimeInMS":0,"m_bestLapTime":87.58965301513672,"m_bestLapNum":1,"m_bestLapSector1TimeInMS":27774,"m_bestLapSector2TimeInMS":36041,"m_bestLapSector3TimeInMS":23773,"m_bestOverallSector1TimeInMS":27774,"m_bestOverallSector1LapNum":1,"m_bestOverallSector2TimeInMS":36041,"m_bestOverallSector2LapNum":1,"m_bestOverallSector3TimeInMS":23773,"m_bestOverallSector3LapNum":1,"m_lapDistance":1271.296875,"m_totalDistance":7167.60791015625,"m_safetyCarDelta":0,"m_carPosition":2,"m_currentLapNum":2,"m_pitStatus":0,"m_sector":0,"m_currentLapInvalid":0,"m_penalties":0,"m_gridPosition":12,"m_driverStatus":1,"m_resultStatus":3},"custom":{"bestLapTyre":16},"race_data":{"m_position":2,"m_numLaps":1,"m_gridPosition":12,"m_points":15,"m_numPitStops":0,"m_resultStatus":3,"m_bestLapTime":87.58965301513672,"m_totalRaceTime":87.58965301513672,"m_penaltiesTime":0,"m_numPenalties":0,"m_numTyreStints":1,"m_tyreStintsActual":[18,0,0,0,0,0,0,0],"m_tyreStintsVisual":[16,0,0,0,0,0,0,0]}},"4":{"driver":{"m_aiControlled":1,"m_driverId":144,"m_teamId":2,"m_raceNumber":36,"m_nationality":10,"m_name":"Player","m_yourTelemetry":0},"lap_data":{"m_lastLapTime":100.16841888427734,"m_currentLapTime":0.011132599785923958,"m_sector1TimeInMS":0,"m_sector2TimeInMS":0,"m_bestLapTime":100.16841888427734,"m_bestLapNum":1,"m_bestLapSector1TimeInMS":29208,"m_bestLapSector2TimeInMS":40232,"m_bestLapSector3TimeInMS":30728,"m_bestOverallSector1TimeInMS":29208,"m_bestOverallSector1LapNum":1,"m_bestOverallSector2TimeInMS":40232,"m_bestOverallSector2LapNum":1,"m_bestOverallSector3TimeInMS":30728,"m_bestOverallSector3LapNum":1,"m_lapDistance":616.46728515625,"m_totalDistance":6512.7783203125,"m_safetyCarDelta":0,"m_carPosition":12,"m_currentLapNum":2,"m_pitStatus":0,"m_sector":0,"m_currentLapInvalid":0,"m_penalties":0,"m_gridPosition":2,"m_driverStatus":1,"m_resultStatus":3},"custom":{"bestLapTyre":16},"race_data":{"m_position":12,"m_numLaps":1,"m_gridPosition":2,"m_points":0,"m_numPitStops":0,"m_resultStatus":3,"m_bestLapTime":100.16841888427734,"m_totalRaceTime":100.16841888427734,"m_penaltiesTime":0,"m_numPenalties":0,"m_numTyreStints":1,"m_tyreStintsActual":[18,0,0,0,0,0,0,0],"m_tyreStintsVisual":[16,0,0,0,0,0,0,0]}},"5":{"driver":{"m_aiControlled":0,"m_driverId":146,"m_teamId":8,"m_raceNumber":47,"m_nationality":82,"m_name":"Player","m_yourTelemetry":0},"lap_data":{"m_lastLapTime":90.24284362792969,"m_currentLapTime":0.011999200098216534,"m_sector1TimeInMS":0,"m_sector2TimeInMS":0,"m_bestLapTime":90.24284362792969,"m_bestLapNum":1,"m_bestLapSector1TimeInMS":28480,"m_bestLapSector2TimeInMS":37081,"m_bestLapSector3TimeInMS":24680,"m_bestOverallSector1TimeInMS":28480,"m_bestOverallSector1LapNum":1,"m_bestOverallSector2TimeInMS":37081,"m_bestOverallSector2LapNum":1,"m_bestOverallSector3TimeInMS":24680,"m_bestOverallSector3LapNum":1,"m_lapDistance":1117.32177734375,"m_totalDistance":7013.6328125,"m_safetyCarDelta":0,"m_carPosition":7,"m_currentLapNum":2,"m_pitStatus":0,"m_sector":0,"m_currentLapInvalid":0,"m_penalties":0,"m_gridPosition":10,"m_driverStatus":1,"m_resultStatus":3},"custom":{"bestLapTyre":16},"race_data":{"m_position":7,"m_numLaps":1,"m_gridPosition":10,"m_points":1,"m_numPitStops":0,"m_resultStatus":3,"m_bestLapTime":90.24284362792969,"m_totalRaceTime":90.24284362792969,"m_penaltiesTime":0,"m_numPenalties":0,"m_numTyreStints":1,"m_tyreStintsActual":[18,0,0,0,0,0,0,0],"m_tyreStintsVisual":[16,0,0,0,0,0,0,0]}},"6":{"driver":{"m_aiControlled":0,"m_driverId":145,"m_teamId":9,"m_raceNumber":70,"m_nationality":1,"m_name":"Player","m_yourTelemetry":0},"lap_data":{"m_lastLapTime":87.1077651977539,"m_currentLapTime":0.011157800443470478,"m_sector1TimeInMS":0,"m_sector2TimeInMS":0,"m_bestLapTime":87.1077651977539,"m_bestLapNum":1,"m_bestLapSector1TimeInMS":27843,"m_bestLapSector2TimeInMS":35418,"m_bestLapSector3TimeInMS":23845,"m_bestOverallSector1TimeInMS":27843,"m_bestOverallSector1LapNum":1,"m_bestOverallSector2TimeInMS":35418,"m_bestOverallSector2LapNum":1,"m_bestOverallSector3TimeInMS":23845,"m_bestOverallSector3LapNum":1,"m_lapDistance":1303.5751953125,"m_totalDistance":7199.88623046875,"m_safetyCarDelta":0,"m_carPosition":1,"m_currentLapNum":2,"m_pitStatus":0,"m_sector":0,"m_currentLapInvalid":0,"m_penalties":0,"m_gridPosition":8,"m_driverStatus":1,"m_resultStatus":3},"custom":{"bestLapTyre":16},"race_data":{"m_position":1,"m_numLaps":1,"m_gridPosition":8,"m_points":4,"m_numPitStops":0,"m_resultStatus":3,"m_bestLapTime":87.1077651977539,"m_totalRaceTime":87.1077651977539,"m_penaltiesTime":0,"m_numPenalties":0,"m_numTyreStints":1,"m_tyreStintsActual":[18,0,0,0,0,0,0,0],"m_tyreStintsVisual":[16,0,0,0,0,0,0,0]}},"7":{"driver":{"m_aiControlled":0,"m_driverId":134,"m_teamId":0,"m_raceNumber":69,"m_nationality":10,"m_name":"Player","m_yourTelemetry":0},"lap_data":{"m_lastLapTime":0,"m_currentLapTime":0,"m_sector1TimeInMS":0,"m_sector2TimeInMS":0,"m_bestLapTime":0,"m_bestLapNum":0,"m_bestLapSector1TimeInMS":0,"m_bestLapSector2TimeInMS":0,"m_bestLapSector3TimeInMS":0,"m_bestOverallSector1TimeInMS":0,"m_bestOverallSector1LapNum":0,"m_bestOverallSector2TimeInMS":0,"m_bestOverallSector2LapNum":0,"m_bestOverallSector3TimeInMS":0,"m_bestOverallSector3LapNum":0,"m_lapDistance":-5840.14453125,"m_totalDistance":-5840.14453125,"m_safetyCarDelta":0,"m_carPosition":14,"m_currentLapNum":1,"m_pitStatus":0,"m_sector":0,"m_currentLapInvalid":0,"m_penalties":0,"m_gridPosition":6,"m_driverStatus":0,"m_resultStatus":7},"race_data":{"m_position":14,"m_numLaps":0,"m_gridPosition":6,"m_points":0,"m_numPitStops":0,"m_resultStatus":7,"m_bestLapTime":0,"m_totalRaceTime":11.482315063476562,"m_penaltiesTime":0,"m_numPenalties":0,"m_numTyreStints":1,"m_tyreStintsActual":[18,0,0,0,0,0,0,0],"m_tyreStintsVisual":[16,0,0,0,0,0,0,0]}},"8":{"driver":{"m_aiControlled":0,"m_driverId":131,"m_teamId":8,"m_raceNumber":29,"m_nationality":13,"m_name":"Player","m_yourTelemetry":0},"lap_data":{"m_lastLapTime":88.00171661376953,"m_currentLapTime":0.011280300095677376,"m_sector1TimeInMS":0,"m_sector2TimeInMS":0,"m_bestLapTime":88.00171661376953,"m_bestLapNum":1,"m_bestLapSector1TimeInMS":27734,"m_bestLapSector2TimeInMS":36009,"m_bestLapSector3TimeInMS":24257,"m_bestOverallSector1TimeInMS":27734,"m_bestOverallSector1LapNum":1,"m_bestOverallSector2TimeInMS":36009,"m_bestOverallSector2LapNum":1,"m_bestOverallSector3TimeInMS":24257,"m_bestOverallSector3LapNum":1,"m_lapDistance":1238.70361328125,"m_totalDistance":7135.0146484375,"m_safetyCarDelta":0,"m_carPosition":4,"m_currentLapNum":2,"m_pitStatus":0,"m_sector":0,"m_currentLapInvalid":0,"m_penalties":0,"m_gridPosition":5,"m_driverStatus":1,"m_resultStatus":3},"custom":{"bestLapTyre":16},"race_data":{"m_position":4,"m_numLaps":1,"m_gridPosition":5,"m_points":8,"m_numPitStops":0,"m_resultStatus":3,"m_bestLapTime":88.00171661376953,"m_totalRaceTime":88.00171661376953,"m_penaltiesTime":0,"m_numPenalties":0,"m_numTyreStints":1,"m_tyreStintsActual":[18,0,0,0,0,0,0,0],"m_tyreStintsVisual":[16,0,0,0,0,0,0,0]}},"9":{"driver":{"m_aiControlled":0,"m_driverId":155,"m_teamId":5,"m_raceNumber":12,"m_nationality":9,"m_name":"Player","m_yourTelemetry":0},"lap_data":{"m_lastLapTime":95.63579559326172,"m_currentLapTime":0.011190099641680717,"m_sector1TimeInMS":0,"m_sector2TimeInMS":0,"m_bestLapTime":95.63579559326172,"m_bestLapNum":1,"m_bestLapSector1TimeInMS":30105,"m_bestLapSector2TimeInMS":39808,"m_bestLapSector3TimeInMS":25721,"m_bestOverallSector1TimeInMS":30105,"m_bestOverallSector1LapNum":1,"m_bestOverallSector2TimeInMS":39808,"m_bestOverallSector2LapNum":1,"m_bestOverallSector3TimeInMS":25721,"m_bestOverallSector3LapNum":1,"m_lapDistance":927.12109375,"m_totalDistance":6823.43212890625,"m_safetyCarDelta":0,"m_carPosition":10,"m_currentLapNum":2,"m_pitStatus":0,"m_sector":0,"m_currentLapInvalid":0,"m_penalties":0,"m_gridPosition":7,"m_driverStatus":1,"m_resultStatus":3},"custom":{"bestLapTyre":16},"race_data":{"m_position":10,"m_numLaps":1,"m_gridPosition":7,"m_points":0,"m_numPitStops":0,"m_resultStatus":3,"m_bestLapTime":95.63579559326172,"m_totalRaceTime":95.63579559326172,"m_penaltiesTime":0,"m_numPenalties":0,"m_numTyreStints":1,"m_tyreStintsActual":[18,0,0,0,0,0,0,0],"m_tyreStintsVisual":[16,0,0,0,0,0,0,0]}},"10":{"driver":{"m_aiControlled":0,"m_driverId":153,"m_teamId":1,"m_raceNumber":65,"m_nationality":9,"m_name":"Player","m_yourTelemetry":0},"lap_data":{"m_lastLapTime":89.08222198486328,"m_currentLapTime":0.011706599965691566,"m_sector1TimeInMS":0,"m_sector2TimeInMS":0,"m_bestLapTime":89.08222198486328,"m_bestLapNum":1,"m_bestLapSector1TimeInMS":28048,"m_bestLapSector2TimeInMS":36734,"m_bestLapSector3TimeInMS":24299,"m_bestOverallSector1TimeInMS":28048,"m_bestOverallSector1LapNum":1,"m_bestOverallSector2TimeInMS":36734,"m_bestOverallSector2LapNum":1,"m_bestOverallSector3TimeInMS":24299,"m_bestOverallSector3LapNum":1,"m_lapDistance":1162.5146484375,"m_totalDistance":7058.82568359375,"m_safetyCarDelta":0,"m_carPosition":5,"m_currentLapNum":2,"m_pitStatus":0,"m_sector":0,"m_currentLapInvalid":0,"m_penalties":0,"m_gridPosition":3,"m_driverStatus":1,"m_resultStatus":3},"custom":{"bestLapTyre":16},"race_data":{"m_position":5,"m_numLaps":1,"m_gridPosition":3,"m_points":0,"m_numPitStops":0,"m_resultStatus":3,"m_bestLapTime":89.08222198486328,"m_totalRaceTime":89.08222198486328,"m_penaltiesTime":0,"m_numPenalties":0,"m_numTyreStints":1,"m_tyreStintsActual":[18,0,0,0,0,0,0,0],"m_tyreStintsVisual":[16,0,0,0,0,0,0,0]}},"11":{"driver":{"m_aiControlled":0,"m_driverId":159,"m_teamId":4,"m_raceNumber":69,"m_nationality":1,"m_name":"Player","m_yourTelemetry":0},"lap_data":{"m_lastLapTime":87.96184539794922,"m_currentLapTime":0.011280300095677376,"m_sector1TimeInMS":0,"m_sector2TimeInMS":0,"m_bestLapTime":87.96184539794922,"m_bestLapNum":1,"m_bestLapSector1TimeInMS":28122,"m_bestLapSector2TimeInMS":35923,"m_bestLapSector3TimeInMS":23916,"m_bestOverallSector1TimeInMS":28122,"m_bestOverallSector1LapNum":1,"m_bestOverallSector2TimeInMS":35923,"m_bestOverallSector2LapNum":1,"m_bestOverallSector3TimeInMS":23916,"m_bestOverallSector3LapNum":1,"m_lapDistance":1022.19921875,"m_totalDistance":6918.51025390625,"m_safetyCarDelta":0,"m_carPosition":3,"m_currentLapNum":2,"m_pitStatus":0,"m_sector":0,"m_currentLapInvalid":0,"m_penalties":0,"m_gridPosition":14,"m_driverStatus":1,"m_resultStatus":3},"custom":{"bestLapTyre":16},"race_data":{"m_position":3,"m_numLaps":1,"m_gridPosition":14,"m_points":0,"m_numPitStops":0,"m_resultStatus":3,"m_bestLapTime":87.96184539794922,"m_totalRaceTime":87.96184539794922,"m_penaltiesTime":0,"m_numPenalties":0,"m_numTyreStints":1,"m_tyreStintsActual":[18,0,0,0,0,0,0,0],"m_tyreStintsVisual":[16,0,0,0,0,0,0,0]}},"12":{"driver":{"m_aiControlled":0,"m_driverId":160,"m_teamId":1,"m_raceNumber":2,"m_nationality":64,"m_name":"Player","m_yourTelemetry":0},"lap_data":{"m_lastLapTime":0,"m_currentLapTime":0,"m_sector1TimeInMS":0,"m_sector2TimeInMS":0,"m_bestLapTime":0,"m_bestLapNum":0,"m_bestLapSector1TimeInMS":0,"m_bestLapSector2TimeInMS":0,"m_bestLapSector3TimeInMS":0,"m_bestOverallSector1TimeInMS":0,"m_bestOverallSector1LapNum":0,"m_bestOverallSector2TimeInMS":0,"m_bestOverallSector2LapNum":0,"m_bestOverallSector3TimeInMS":0,"m_bestOverallSector3LapNum":0,"m_lapDistance":-5819.5,"m_totalDistance":-5819.5,"m_safetyCarDelta":0,"m_carPosition":15,"m_currentLapNum":1,"m_pitStatus":0,"m_sector":0,"m_currentLapInvalid":0,"m_penalties":0,"m_gridPosition":15,"m_driverStatus":0,"m_resultStatus":7},"race_data":{"m_position":15,"m_numLaps":0,"m_gridPosition":15,"m_points":0,"m_numPitStops":0,"m_resultStatus":7,"m_bestLapTime":0,"m_totalRaceTime":8.781508445739746,"m_penaltiesTime":0,"m_numPenalties":0,"m_numTyreStints":1,"m_tyreStintsActual":[18,0,0,0,0,0,0,0],"m_tyreStintsVisual":[16,0,0,0,0,0,0,0]}},"13":{"driver":{"m_aiControlled":0,"m_driverId":161,"m_teamId":5,"m_raceNumber":9,"m_nationality":28,"m_name":"Player","m_yourTelemetry":0},"lap_data":{"m_lastLapTime":89.37533569335938,"m_currentLapTime":0.011706599965691566,"m_sector1TimeInMS":0,"m_sector2TimeInMS":0,"m_bestLapTime":89.37533569335938,"m_bestLapNum":1,"m_bestLapSector1TimeInMS":28138,"m_bestLapSector2TimeInMS":36684,"m_bestLapSector3TimeInMS":24552,"m_bestOverallSector1TimeInMS":28138,"m_bestOverallSector1LapNum":1,"m_bestOverallSector2TimeInMS":36684,"m_bestOverallSector2LapNum":1,"m_bestOverallSector3TimeInMS":24552,"m_bestOverallSector3LapNum":1,"m_lapDistance":1154.17431640625,"m_totalDistance":7050.4853515625,"m_safetyCarDelta":0,"m_carPosition":6,"m_currentLapNum":2,"m_pitStatus":0,"m_sector":0,"m_currentLapInvalid":0,"m_penalties":0,"m_gridPosition":16,"m_driverStatus":1,"m_resultStatus":3},"custom":{"bestLapTyre":16},"race_data":{"m_position":6,"m_numLaps":1,"m_gridPosition":16,"m_points":0,"m_numPitStops":0,"m_resultStatus":3,"m_bestLapTime":89.37533569335938,"m_totalRaceTime":89.37533569335938,"m_penaltiesTime":0,"m_numPenalties":0,"m_numTyreStints":1,"m_tyreStintsActual":[18,0,0,0,0,0,0,0],"m_tyreStintsVisual":[16,0,0,0,0,0,0,0]}},"14":{"driver":{"m_aiControlled":0,"m_driverId":158,"m_teamId":6,"m_raceNumber":2,"m_nationality":31,"m_name":"Player","m_yourTelemetry":0},"lap_data":{"m_lastLapTime":90.92472839355469,"m_currentLapTime":0.012663699686527252,"m_sector1TimeInMS":0,"m_sector2TimeInMS":0,"m_bestLapTime":90.92472839355469,"m_bestLapNum":1,"m_bestLapSector1TimeInMS":28407,"m_bestLapSector2TimeInMS":37641,"m_bestLapSector3TimeInMS":24875,"m_bestOverallSector1TimeInMS":28407,"m_bestOverallSector1LapNum":1,"m_bestOverallSector2TimeInMS":37641,"m_bestOverallSector2LapNum":1,"m_bestOverallSector3TimeInMS":24875,"m_bestOverallSector3LapNum":1,"m_lapDistance":1091.96337890625,"m_totalDistance":6988.2744140625,"m_safetyCarDelta":0,"m_carPosition":8,"m_currentLapNum":2,"m_pitStatus":0,"m_sector":0,"m_currentLapInvalid":0,"m_penalties":0,"m_gridPosition":13,"m_driverStatus":1,"m_resultStatus":3},"custom":{"bestLapTyre":16},"race_data":{"m_position":8,"m_numLaps":1,"m_gridPosition":13,"m_points":0,"m_numPitStops":0,"m_resultStatus":3,"m_bestLapTime":90.92472839355469,"m_totalRaceTime":90.92472839355469,"m_penaltiesTime":0,"m_numPenalties":0,"m_numTyreStints":1,"m_tyreStintsActual":[18,0,0,0,0,0,0,0],"m_tyreStintsVisual":[16,0,0,0,0,0,0,0]}},"15":{"driver":{"m_aiControlled":0,"m_driverId":0,"m_teamId":0,"m_raceNumber":0,"m_nationality":0,"m_name":"","m_yourTelemetry":0},"lap_data":{"m_lastLapTime":0,"m_currentLapTime":0,"m_sector1TimeInMS":0,"m_sector2TimeInMS":0,"m_bestLapTime":0,"m_bestLapNum":0,"m_bestLapSector1TimeInMS":0,"m_bestLapSector2TimeInMS":0,"m_bestLapSector3TimeInMS":0,"m_bestOverallSector1TimeInMS":0,"m_bestOverallSector1LapNum":0,"m_bestOverallSector2TimeInMS":0,"m_bestOverallSector2LapNum":0,"m_bestOverallSector3TimeInMS":0,"m_bestOverallSector3LapNum":0,"m_lapDistance":0,"m_totalDistance":0,"m_safetyCarDelta":0,"m_carPosition":0,"m_currentLapNum":0,"m_pitStatus":0,"m_sector":0,"m_currentLapInvalid":0,"m_penalties":0,"m_gridPosition":0,"m_driverStatus":0,"m_resultStatus":0},"race_data":{"m_position":0,"m_numLaps":0,"m_gridPosition":0,"m_points":0,"m_numPitStops":0,"m_resultStatus":0,"m_bestLapTime":0,"m_totalRaceTime":0,"m_penaltiesTime":0,"m_numPenalties":0,"m_numTyreStints":0,"m_tyreStintsActual":[0,0,0,0,0,0,0,0],"m_tyreStintsVisual":[0,0,0,0,0,0,0,0]}},"16":{"driver":{"m_aiControlled":0,"m_driverId":0,"m_teamId":0,"m_raceNumber":0,"m_nationality":0,"m_name":"","m_yourTelemetry":0},"lap_data":{"m_lastLapTime":0,"m_currentLapTime":0,"m_sector1TimeInMS":0,"m_sector2TimeInMS":0,"m_bestLapTime":0,"m_bestLapNum":0,"m_bestLapSector1TimeInMS":0,"m_bestLapSector2TimeInMS":0,"m_bestLapSector3TimeInMS":0,"m_bestOverallSector1TimeInMS":0,"m_bestOverallSector1LapNum":0,"m_bestOverallSector2TimeInMS":0,"m_bestOverallSector2LapNum":0,"m_bestOverallSector3TimeInMS":0,"m_bestOverallSector3LapNum":0,"m_lapDistance":0,"m_totalDistance":0,"m_safetyCarDelta":0,"m_carPosition":0,"m_currentLapNum":0,"m_pitStatus":0,"m_sector":0,"m_currentLapInvalid":0,"m_penalties":0,"m_gridPosition":0,"m_driverStatus":0,"m_resultStatus":0},"race_data":{"m_position":0,"m_numLaps":0,"m_gridPosition":0,"m_points":0,"m_numPitStops":0,"m_resultStatus":0,"m_bestLapTime":0,"m_totalRaceTime":0,"m_penaltiesTime":0,"m_numPenalties":0,"m_numTyreStints":0,"m_tyreStintsActual":[0,0,0,0,0,0,0,0],"m_tyreStintsVisual":[0,0,0,0,0,0,0,0]}},"17":{"driver":{"m_aiControlled":0,"m_driverId":0,"m_teamId":0,"m_raceNumber":0,"m_nationality":0,"m_name":"","m_yourTelemetry":0},"lap_data":{"m_lastLapTime":0,"m_currentLapTime":0,"m_sector1TimeInMS":0,"m_sector2TimeInMS":0,"m_bestLapTime":0,"m_bestLapNum":0,"m_bestLapSector1TimeInMS":0,"m_bestLapSector2TimeInMS":0,"m_bestLapSector3TimeInMS":0,"m_bestOverallSector1TimeInMS":0,"m_bestOverallSector1LapNum":0,"m_bestOverallSector2TimeInMS":0,"m_bestOverallSector2LapNum":0,"m_bestOverallSector3TimeInMS":0,"m_bestOverallSector3LapNum":0,"m_lapDistance":0,"m_totalDistance":0,"m_safetyCarDelta":0,"m_carPosition":0,"m_currentLapNum":0,"m_pitStatus":0,"m_sector":0,"m_currentLapInvalid":0,"m_penalties":0,"m_gridPosition":0,"m_driverStatus":0,"m_resultStatus":0},"race_data":{"m_position":0,"m_numLaps":0,"m_gridPosition":0,"m_points":0,"m_numPitStops":0,"m_resultStatus":0,"m_bestLapTime":0,"m_totalRaceTime":0,"m_penaltiesTime":0,"m_numPenalties":0,"m_numTyreStints":0,"m_tyreStintsActual":[0,0,0,0,0,0,0,0],"m_tyreStintsVisual":[0,0,0,0,0,0,0,0]}},"18":{"driver":{"m_aiControlled":0,"m_driverId":0,"m_teamId":0,"m_raceNumber":0,"m_nationality":0,"m_name":"","m_yourTelemetry":0},"lap_data":{"m_lastLapTime":0,"m_currentLapTime":0,"m_sector1TimeInMS":0,"m_sector2TimeInMS":0,"m_bestLapTime":0,"m_bestLapNum":0,"m_bestLapSector1TimeInMS":0,"m_bestLapSector2TimeInMS":0,"m_bestLapSector3TimeInMS":0,"m_bestOverallSector1TimeInMS":0,"m_bestOverallSector1LapNum":0,"m_bestOverallSector2TimeInMS":0,"m_bestOverallSector2LapNum":0,"m_bestOverallSector3TimeInMS":0,"m_bestOverallSector3LapNum":0,"m_lapDistance":0,"m_totalDistance":0,"m_safetyCarDelta":0,"m_carPosition":0,"m_currentLapNum":0,"m_pitStatus":0,"m_sector":0,"m_currentLapInvalid":0,"m_penalties":0,"m_gridPosition":0,"m_driverStatus":0,"m_resultStatus":0},"race_data":{"m_position":0,"m_numLaps":0,"m_gridPosition":0,"m_points":0,"m_numPitStops":0,"m_resultStatus":0,"m_bestLapTime":0,"m_totalRaceTime":0,"m_penaltiesTime":0,"m_numPenalties":0,"m_numTyreStints":0,"m_tyreStintsActual":[0,0,0,0,0,0,0,0],"m_tyreStintsVisual":[0,0,0,0,0,0,0,0]}},"19":{"driver":{"m_aiControlled":0,"m_driverId":0,"m_teamId":0,"m_raceNumber":0,"m_nationality":0,"m_name":"","m_yourTelemetry":0},"lap_data":{"m_lastLapTime":0,"m_currentLapTime":0,"m_sector1TimeInMS":0,"m_sector2TimeInMS":0,"m_bestLapTime":0,"m_bestLapNum":0,"m_bestLapSector1TimeInMS":0,"m_bestLapSector2TimeInMS":0,"m_bestLapSector3TimeInMS":0,"m_bestOverallSector1TimeInMS":0,"m_bestOverallSector1LapNum":0,"m_bestOverallSector2TimeInMS":0,"m_bestOverallSector2LapNum":0,"m_bestOverallSector3TimeInMS":0,"m_bestOverallSector3LapNum":0,"m_lapDistance":0,"m_totalDistance":0,"m_safetyCarDelta":0,"m_carPosition":0,"m_currentLapNum":0,"m_pitStatus":0,"m_sector":0,"m_currentLapInvalid":0,"m_penalties":0,"m_gridPosition":0,"m_driverStatus":0,"m_resultStatus":0},"race_data":{"m_position":0,"m_numLaps":0,"m_gridPosition":0,"m_points":0,"m_numPitStops":0,"m_resultStatus":0,"m_bestLapTime":0,"m_totalRaceTime":0,"m_penaltiesTime":0,"m_numPenalties":0,"m_numTyreStints":0,"m_tyreStintsActual":[0,0,0,0,0,0,0,0],"m_tyreStintsVisual":[0,0,0,0,0,0,0,0]}},"20":{"driver":{"m_aiControlled":0,"m_driverId":0,"m_teamId":0,"m_raceNumber":0,"m_nationality":0,"m_name":"","m_yourTelemetry":0},"lap_data":{"m_lastLapTime":0,"m_currentLapTime":0,"m_sector1TimeInMS":0,"m_sector2TimeInMS":0,"m_bestLapTime":0,"m_bestLapNum":0,"m_bestLapSector1TimeInMS":0,"m_bestLapSector2TimeInMS":0,"m_bestLapSector3TimeInMS":0,"m_bestOverallSector1TimeInMS":0,"m_bestOverallSector1LapNum":0,"m_bestOverallSector2TimeInMS":0,"m_bestOverallSector2LapNum":0,"m_bestOverallSector3TimeInMS":0,"m_bestOverallSector3LapNum":0,"m_lapDistance":0,"m_totalDistance":0,"m_safetyCarDelta":0,"m_carPosition":0,"m_currentLapNum":0,"m_pitStatus":0,"m_sector":0,"m_currentLapInvalid":0,"m_penalties":0,"m_gridPosition":0,"m_driverStatus":0,"m_resultStatus":0},"race_data":{"m_position":0,"m_numLaps":0,"m_gridPosition":0,"m_points":0,"m_numPitStops":0,"m_resultStatus":0,"m_bestLapTime":0,"m_totalRaceTime":0,"m_penaltiesTime":0,"m_numPenalties":0,"m_numTyreStints":0,"m_tyreStintsActual":[0,0,0,0,0,0,0,0],"m_tyreStintsVisual":[0,0,0,0,0,0,0,0]}},"21":{"driver":{"m_aiControlled":0,"m_driverId":0,"m_teamId":0,"m_raceNumber":0,"m_nationality":0,"m_name":"","m_yourTelemetry":0},"lap_data":{"m_lastLapTime":0,"m_currentLapTime":0,"m_sector1TimeInMS":0,"m_sector2TimeInMS":0,"m_bestLapTime":0,"m_bestLapNum":0,"m_bestLapSector1TimeInMS":0,"m_bestLapSector2TimeInMS":0,"m_bestLapSector3TimeInMS":0,"m_bestOverallSector1TimeInMS":0,"m_bestOverallSector1LapNum":0,"m_bestOverallSector2TimeInMS":0,"m_bestOverallSector2LapNum":0,"m_bestOverallSector3TimeInMS":0,"m_bestOverallSector3LapNum":0,"m_lapDistance":0,"m_totalDistance":0,"m_safetyCarDelta":0,"m_carPosition":0,"m_currentLapNum":0,"m_pitStatus":0,"m_sector":0,"m_currentLapInvalid":0,"m_penalties":0,"m_gridPosition":0,"m_driverStatus":0,"m_resultStatus":0},"race_data":{"m_position":0,"m_numLaps":0,"m_gridPosition":0,"m_points":0,"m_numPitStops":0,"m_resultStatus":0,"m_bestLapTime":0,"m_totalRaceTime":0,"m_penaltiesTime":0,"m_numPenalties":0,"m_numTyreStints":0,"m_tyreStintsActual":[0,0,0,0,0,0,0,0],"m_tyreStintsVisual":[0,0,0,0,0,0,0,0]}}}}
+{
+  "9": {
+    "driver": {
+      "m_aiControlled": 0,
+      "m_driverId": 101,
+      "m_teamId": 9,
+      "m_raceNumber": 9,
+      "m_nationality": 1,
+      "m_name": "Player",
+      "m_yourTelemetry": 0
+    },
+    "lap_data": {
+      "m_lastLapTime": 88.58212280273438,
+      "m_currentLapTime": 0.011479699984192848,
+      "m_sector1TimeInMS": 0,
+      "m_sector2TimeInMS": 0,
+      "m_bestLapTime": 88.58212280273438,
+      "m_bestLapNum": 5,
+      "m_bestLapSector1TimeInMS": 28658,
+      "m_bestLapSector2TimeInMS": 38092,
+      "m_bestLapSector3TimeInMS": 21831,
+      "m_bestOverallSector1TimeInMS": 28658,
+      "m_bestOverallSector1LapNum": 5,
+      "m_bestOverallSector2TimeInMS": 38092,
+      "m_bestOverallSector2LapNum": 5,
+      "m_bestOverallSector3TimeInMS": 21755,
+      "m_bestOverallSector3LapNum": 4,
+      "m_lapDistance": 3402.900390625,
+      "m_totalDistance": 30447.314453125,
+      "m_safetyCarDelta": 0,
+      "m_carPosition": 1,
+      "m_currentLapNum": 6,
+      "m_pitStatus": 0,
+      "m_sector": 1,
+      "m_currentLapInvalid": 0,
+      "m_penalties": 2,
+      "m_gridPosition": 3,
+      "m_driverStatus": 4,
+      "m_resultStatus": 3
+    },
+    "events": [
+      {
+        "code": "PENA",
+        "details": {
+          "penaltyType": 5,
+          "infringementType": 7,
+          "vehicleIdx": 0,
+          "otherVehicleIdx": 255,
+          "time": 255,
+          "lapNum": 1,
+          "placesGained": 0
+        },
+        "text": "Warning",
+        "currentLap": 1
+      },
+      {
+        "code": "SPTP",
+        "details": {
+          "vehicleIdx": 0,
+          "speed": 310.9978332519531
+        },
+        "text": "New fastest speed of 310.9978332519531",
+        "currentLap": 2
+      },
+      {
+        "code": "PENA",
+        "details": {
+          "penaltyType": 5,
+          "infringementType": 27,
+          "vehicleIdx": 0,
+          "otherVehicleIdx": 255,
+          "time": 255,
+          "lapNum": 2,
+          "placesGained": 0
+        },
+        "text": "Warning",
+        "currentLap": 2
+      },
+      {
+        "code": "SPTP",
+        "details": {
+          "vehicleIdx": 0,
+          "speed": 313.9725646972656
+        },
+        "text": "New fastest speed of 313.9725646972656",
+        "currentLap": 3
+      },
+      {
+        "code": "PENA",
+        "details": {
+          "penaltyType": 5,
+          "infringementType": 7,
+          "vehicleIdx": 0,
+          "otherVehicleIdx": 255,
+          "time": 255,
+          "lapNum": 3,
+          "placesGained": 0
+        },
+        "text": "Warning",
+        "currentLap": 3
+      },
+      {
+        "code": "PENA",
+        "details": {
+          "penaltyType": 4,
+          "infringementType": 21,
+          "vehicleIdx": 0,
+          "otherVehicleIdx": 255,
+          "time": 2,
+          "lapNum": 3,
+          "placesGained": 0
+        },
+        "text": "Time penalty",
+        "currentLap": 3
+      },
+      {
+        "code": "SPTP",
+        "details": {
+          "vehicleIdx": 0,
+          "speed": 328.1837463378906
+        },
+        "text": "New fastest speed of 328.1837463378906",
+        "currentLap": 4
+      },
+      {
+        "code": "PENA",
+        "details": {
+          "penaltyType": 5,
+          "infringementType": 27,
+          "vehicleIdx": 0,
+          "otherVehicleIdx": 255,
+          "time": 255,
+          "lapNum": 4,
+          "placesGained": 0
+        },
+        "text": "Warning",
+        "currentLap": 4
+      },
+      {
+        "code": "PENA",
+        "details": {
+          "penaltyType": 5,
+          "infringementType": 27,
+          "vehicleIdx": 0,
+          "otherVehicleIdx": 255,
+          "time": 255,
+          "lapNum": 4,
+          "placesGained": 0
+        },
+        "text": "Warning",
+        "currentLap": 4
+      }
+    ],
+    "custom": {
+      "bestLapTyre": 16
+    },
+    "race_data": {
+      "m_position": 1,
+      "m_numLaps": 5,
+      "m_gridPosition": 3,
+      "m_points": 25,
+      "m_numPitStops": 0,
+      "m_resultStatus": 3,
+      "m_bestLapTime": 88.58212280273438,
+      "m_totalRaceTime": 449.5591735839844,
+      "m_penaltiesTime": 2,
+      "m_numPenalties": 1,
+      "m_numTyreStints": 1,
+      "m_tyreStintsActual": [
+        17,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "m_tyreStintsVisual": [
+        16,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "calculated": {
+      "bestLapTimeInSecDelta": 0.160400390625,
+      "bestLapSector1InMsDelta": 281,
+      "bestLapSector2InMsDelta": -295,
+      "bestLapSector3InMsDelta": 174,
+      "totalRaceTimeInMsDelta": 0
+    }
+  },
+  "25": {
+    "driver": {
+      "m_aiControlled": 0,
+      "m_driverId": 100,
+      "m_teamId": 8,
+      "m_raceNumber": 25,
+      "m_nationality": 1,
+      "m_name": "Player",
+      "m_yourTelemetry": 1
+    },
+    "lap_data": {
+      "m_lastLapTime": 88.42172241210938,
+      "m_currentLapTime": 0.012419899925589561,
+      "m_sector1TimeInMS": 0,
+      "m_sector2TimeInMS": 0,
+      "m_bestLapTime": 88.42172241210938,
+      "m_bestLapNum": 5,
+      "m_bestLapSector1TimeInMS": 28377,
+      "m_bestLapSector2TimeInMS": 38387,
+      "m_bestLapSector3TimeInMS": 21657,
+      "m_bestOverallSector1TimeInMS": 28377,
+      "m_bestOverallSector1LapNum": 5,
+      "m_bestOverallSector2TimeInMS": 38356,
+      "m_bestOverallSector2LapNum": 3,
+      "m_bestOverallSector3TimeInMS": 21657,
+      "m_bestOverallSector3LapNum": 5,
+      "m_lapDistance": 3081.65234375,
+      "m_totalDistance": 30126.06640625,
+      "m_safetyCarDelta": 0,
+      "m_carPosition": 2,
+      "m_currentLapNum": 6,
+      "m_pitStatus": 0,
+      "m_sector": 1,
+      "m_currentLapInvalid": 0,
+      "m_penalties": 2,
+      "m_gridPosition": 1,
+      "m_driverStatus": 4,
+      "m_resultStatus": 3
+    },
+    "events": [
+      {
+        "code": "PENA",
+        "details": {
+          "penaltyType": 5,
+          "infringementType": 27,
+          "vehicleIdx": 1,
+          "otherVehicleIdx": 255,
+          "time": 255,
+          "lapNum": 5,
+          "placesGained": 0
+        },
+        "text": "Warning",
+        "currentLap": 5
+      }
+    ],
+    "custom": {
+      "bestLapTyre": 16
+    },
+    "race_data": {
+      "m_position": 2,
+      "m_numLaps": 5,
+      "m_gridPosition": 1,
+      "m_points": 19,
+      "m_numPitStops": 0,
+      "m_resultStatus": 3,
+      "m_bestLapTime": 88.42172241210938,
+      "m_totalRaceTime": 450.09149169921875,
+      "m_penaltiesTime": 2,
+      "m_numPenalties": 1,
+      "m_numTyreStints": 1,
+      "m_tyreStintsActual": [
+        17,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "m_tyreStintsVisual": [
+        16,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "calculated": {
+      "bestLapTimeInSecDelta": 0,
+      "bestLapSector1InMsDelta": 0,
+      "bestLapSector2InMsDelta": 0,
+      "bestLapSector3InMsDelta": 0,
+      "totalRaceTimeInMsDelta": 0.532318115234375
+    }
+  },
+  "69": {
+    "driver": {
+      "m_aiControlled": 0,
+      "m_driverId": 108,
+      "m_teamId": 8,
+      "m_raceNumber": 69,
+      "m_nationality": 70,
+      "m_name": "Player",
+      "m_yourTelemetry": 0
+    },
+    "lap_data": {
+      "m_lastLapTime": 96.4599609375,
+      "m_currentLapTime": 97.16295623779297,
+      "m_sector1TimeInMS": 31458,
+      "m_sector2TimeInMS": 42311,
+      "m_bestLapTime": 95.27912902832031,
+      "m_bestLapNum": 3,
+      "m_bestLapSector1TimeInMS": 31002,
+      "m_bestLapSector2TimeInMS": 40928,
+      "m_bestLapSector3TimeInMS": 23348,
+      "m_bestOverallSector1TimeInMS": 31002,
+      "m_bestOverallSector1LapNum": 3,
+      "m_bestOverallSector2TimeInMS": 40928,
+      "m_bestOverallSector2LapNum": 3,
+      "m_bestOverallSector3TimeInMS": 23348,
+      "m_bestOverallSector3LapNum": 3,
+      "m_lapDistance": 5161.251953125,
+      "m_totalDistance": 26796.783203125,
+      "m_safetyCarDelta": 0,
+      "m_carPosition": 4,
+      "m_currentLapNum": 5,
+      "m_pitStatus": 0,
+      "m_sector": 2,
+      "m_currentLapInvalid": 1,
+      "m_penalties": 16,
+      "m_gridPosition": 4,
+      "m_driverStatus": 4,
+      "m_resultStatus": 5
+    },
+    "events": [
+      {
+        "code": "PENA",
+        "details": {
+          "penaltyType": 6,
+          "infringementType": 20,
+          "vehicleIdx": 3,
+          "otherVehicleIdx": 255,
+          "time": 255,
+          "lapNum": 5,
+          "placesGained": 0
+        },
+        "text": "Disqualified",
+        "currentLap": 5
+      }
+    ],
+    "custom": {
+      "bestLapTyre": 16
+    },
+    "race_data": {
+      "m_position": 4,
+      "m_numLaps": 4,
+      "m_gridPosition": 4,
+      "m_points": 0,
+      "m_numPitStops": 0,
+      "m_resultStatus": 5,
+      "m_bestLapTime": 95.27912902832031,
+      "m_totalRaceTime": 0,
+      "m_penaltiesTime": 16,
+      "m_numPenalties": 4,
+      "m_numTyreStints": 1,
+      "m_tyreStintsActual": [
+        17,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "m_tyreStintsVisual": [
+        16,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "calculated": {
+      "bestLapTimeInSecDelta": 6.8574066162109375,
+      "bestLapSector1InMsDelta": 2625,
+      "bestLapSector2InMsDelta": 2541,
+      "bestLapSector3InMsDelta": 1691,
+      "totalRaceTimeInMsDelta": null
+    }
+  },
+  "75": {
+    "driver": {
+      "m_aiControlled": 1,
+      "m_driverId": 114,
+      "m_teamId": 0,
+      "m_raceNumber": 75,
+      "m_nationality": 14,
+      "m_name": "Player",
+      "m_yourTelemetry": 0
+    },
+    "lap_data": {
+      "m_lastLapTime": 94.88275146484375,
+      "m_currentLapTime": 0.009697699919342995,
+      "m_sector1TimeInMS": 0,
+      "m_sector2TimeInMS": 0,
+      "m_bestLapTime": 92.04627227783203,
+      "m_bestLapNum": 2,
+      "m_bestLapSector1TimeInMS": 30777,
+      "m_bestLapSector2TimeInMS": 39189,
+      "m_bestLapSector3TimeInMS": 22079,
+      "m_bestOverallSector1TimeInMS": 30533,
+      "m_bestOverallSector1LapNum": 5,
+      "m_bestOverallSector2TimeInMS": 39189,
+      "m_bestOverallSector2LapNum": 2,
+      "m_bestOverallSector3TimeInMS": 22048,
+      "m_bestOverallSector3LapNum": 1,
+      "m_lapDistance": 1828.8203125,
+      "m_totalDistance": 28873.234375,
+      "m_safetyCarDelta": 0,
+      "m_carPosition": 3,
+      "m_currentLapNum": 6,
+      "m_pitStatus": 0,
+      "m_sector": 1,
+      "m_currentLapInvalid": 0,
+      "m_penalties": 12,
+      "m_gridPosition": 2,
+      "m_driverStatus": 4,
+      "m_resultStatus": 3
+    },
+    "events": [
+      {
+        "code": "PENA",
+        "details": {
+          "penaltyType": 4,
+          "infringementType": 7,
+          "vehicleIdx": 2,
+          "otherVehicleIdx": 255,
+          "time": 10,
+          "lapNum": 3,
+          "placesGained": 0
+        },
+        "text": "Time penalty",
+        "currentLap": 3
+      }
+    ],
+    "custom": {
+      "bestLapTyre": 16
+    },
+    "race_data": {
+      "m_position": 3,
+      "m_numLaps": 5,
+      "m_gridPosition": 2,
+      "m_points": 15,
+      "m_numPitStops": 0,
+      "m_resultStatus": 3,
+      "m_bestLapTime": 92.04627227783203,
+      "m_totalRaceTime": 485.7256164550781,
+      "m_penaltiesTime": 12,
+      "m_numPenalties": 2,
+      "m_numTyreStints": 1,
+      "m_tyreStintsActual": [
+        17,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "m_tyreStintsVisual": [
+        16,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "calculated": {
+      "bestLapTimeInSecDelta": 3.6245498657226562,
+      "bestLapSector1InMsDelta": 2400,
+      "bestLapSector2InMsDelta": 802,
+      "bestLapSector3InMsDelta": 422,
+      "totalRaceTimeInMsDelta": 36.16644287109375
+    }
+  }
+}
