@@ -4,6 +4,7 @@ const fs = require("fs");
 const { trackParticipants } = require("../lib/participants");
 const { trackLapData } = require("../lib/laps");
 const { trackFinalClassification } = require("../lib/finalClassification");
+const { trackEvents } = require("../lib/events");
 
 let raceData = {
   sessionId: null,
@@ -83,7 +84,6 @@ exports.handler = function (argv) {
   let carStatus = {};
 
   const client = new F1TelemetryClient(config);
-  // client.on(PACKETS.event, trackEvents);
   // client.on(PACKETS.motion, console.log);
   // client.on(PACKETS.carSetups, console.log);
   // client.on(PACKETS.session, (s) => console.dir(s, { depth: null }));
@@ -91,6 +91,10 @@ exports.handler = function (argv) {
   // client.on(PACKETS.carTelemetry, console.log);
   // client.on(PACKETS.lobbyInfo, console.log);
 
+  client.on(PACKETS.event, (packet) => {
+    raceData = trackEvents(packet, raceData);
+    persistData(raceData);
+  });
   client.on(PACKETS.lapData, (packet) => {
     raceData = trackLapData(packet, raceData, carStatus);
     persistData(raceData);
