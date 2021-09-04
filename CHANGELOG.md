@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/chaseconey/f1-telemetry-cli/compare/v1.2.0...v1.2.1) (2021-09-04)
+
+
+### Bug Fixes
+
+* pin client version to old game ([3bbfe68](https://github.com/chaseconey/f1-telemetry-cli/commit/3bbfe688d8f3b573d34650b4a5b6b1135929925f))
+
 # [1.2.0](https://github.com/chaseconey/f1-telemetry-cli/compare/v1.1.0...v1.2.0) (2021-04-20)
 
 
