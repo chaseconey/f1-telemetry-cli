@@ -22,7 +22,7 @@
     "cli-table": "^0.3.6",
     "colors": "^1.4.0",
     "csv-parse": "^4.15.3",
-    "f1-telemetry-client": "^0.1.21",
+    "f1-telemetry-client": "0.1.21",
     "lodash": "^4.17.21",
     "yargs": "^16.2.0"
   },
